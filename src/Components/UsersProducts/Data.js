@@ -1,0 +1,38 @@
+export const Users = [
+  {
+    id: "SKU:8822131",
+    image: "/Asset/profile.png",
+    club: "PSG 20/21 Stadium",
+    variant: "3 Variant",
+    wear: "Jersey",
+    date: "10.12.2025",
+    status: " Published ",
+  },
+  {
+    id: "SKU:8822351",
+    image: "/Asset/profile1.png",
+    club: " Los Angeles Lakers City ",
+    variant: "4 Variant",
+    wear: "OutWear",
+    date: "14.12.2020",
+    status: "Pending ",
+  },
+  {
+    id: "SKU:8822124",
+    image: "/Asset/profile2.png",
+    club: "Miami Heat Ground",
+    variant: " 5 Variant",
+    wear: "Jersey",
+    date: " 10.11.2020",
+    status: "Published ",
+  },
+  {
+    id: "SKU:8800131",
+    image: "/Asset/profile.png",
+    club: "LiverPool 20/21 Stadium",
+    variant: "5 Variant",
+    wear: "Jersey",
+    date: " 10.12.2020",
+    status: "Published  ",
+  },
+];
